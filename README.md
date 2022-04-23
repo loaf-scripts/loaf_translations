@@ -17,6 +17,7 @@ language.lua files for various languages for my scripts
 * [Spanish housing translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_housing/spanish-language.lua) by Antho#0707
 * [Dutch housing translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_housing/dutch-language.lua) by [@Avanae](https://github.com/Avanae)
 * [Czech housing translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_housing/czech-language.lua) by [@icecubepiso](https://github.com/icecubepiso)
+* [Polish housing translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_housing/polish-language.lua) by Mk#5987
 ## loaf_realtor
 * [English realtor, default](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_realtor/english-language.lua)
 * [Spanish realtor translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_realtor/spanish-language.lua) by Antho#0707
