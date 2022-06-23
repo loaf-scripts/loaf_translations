@@ -6,6 +6,7 @@ language.lua files for various languages for my scripts
 * [French garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/french-language.lua) by MasterFrazz#3082
 * [Dutch garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/dutch-language.lua) by [@Avanae](https://github.com/Avanae)
 * [Czech garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/czech-language.lua) by [@icecubepiso](https://github.com/icecubepiso)
+* [Italian garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/italian-language.lua) by AimEye#1517
 * [Finnish garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/finnish-language.lua) by [@Onsqa](https://github.com/Onsqa)
 * [German garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/german-language.lua) by ItsLuca#0187
 * [Spanish garage translation](https://github.com/loaf-scripts/loaf_translations/blob/main/loaf_garage/spanish-language.lua) by Antho#0707
