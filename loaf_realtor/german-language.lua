@@ -78,7 +78,7 @@ Strings = {
 
     ["add_location"] = "Kleiderschrank / Lagerraum hinzufügen",
     ["storage"] = "Stauraum hinzufügen",
-    ["wardrobe"] = "Schrank hinzufügen", ["wardobe_storage"] = "Schrank hinzufügen",
+    ["wardrobe"] = "Schrank hinzufügen",
     ["wardobe_storage"] = "Kleiderschrank & Aufbewahrung",
     ["location"] = "Kleiderschrank/Lagerung #%s",
 
@@ -94,11 +94,11 @@ Strings = {
     ["someone_owns"] = "Jemand besitzt diese Immobilie.",
     ["already_owns"] = "Sie besitzen diese Immobilie bereits.",
     ["bill_label"] = "%s (#%i)",
-    ["add_door_tip"] = "Drücken Sie ~INPUT_FRONTEND_RDOWN~ um die Tür hinzuzufügen\n~INPUT_FRONTEND_RRIGHT~ um abzubrechen"
+    ["add_door_tip"] = "Drücken Sie ~INPUT_FRONTEND_RDOWN~ um die Tür hinzuzufügen\n~INPUT_FRONTEND_RRIGHT~ um abzubrechen",
 }
 
 -- ignorieren Sie dies
 setmetatable(Strings, {__index = function(self, key)
-    print("KEIN SCHLÜSSEL", key)
-    return "Fehler: Fehlende Übersetzung für \""..key..."\""
+    print("NO KEY", key)
+    return "Error: Missing translation for \""..key.."\""
 end})
