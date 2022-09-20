@@ -9,7 +9,7 @@ Strings = {
 
     -- MARKEN
     ["manage_house"] = "Hausmenü öffnen (#%i)",
-    ["manage_apart"] = "Menü "Wohnung" öffnen (#%i)",
+    ["manage_apart"] = "Menü Wohnung öffnen (#%i)",
     
     -- MENÜ HAUS KAUFEN
     ["purchase_house"] = "Kaufen Sie Haus #%i für $%i?",
@@ -74,8 +74,7 @@ Strings = {
     ["enter_other_apart"] = "Betreten Sie die Wohnung von jemandem",
 
     ["your_house_id"] = "Ihre Hausnummer: %s",
-    ["your_apart_id"] = "Ihre Wohnungsnummer: %s", ["your_apart_id"] = "Ihre Wohnungsnummer: %s",
-
+    ["your_apart_id"] = "Ihre Wohnungsnummer: %s",
     ["enter_house_id"] = "Hausnummer",
     ["enter_apart_id"] = "Wohnungsnummer",
 
@@ -163,7 +162,7 @@ Benutze ~INPUT_CELLPHONE_LEFT~ ~INPUT_CELLPHONE_RIGHT~ um das Schloss zu drehen
 ["need_key_storage"] = " Sie benötigen einen Schlüssel, um auf den Speicher zuzugreifen",
 ["access_storage"] = " Öffnen Sie das Lager",
 ["access_wardrobe"] = " Öffnen Sie den Kleiderschrank",
-["choose_storage"] = " Lager oder Kleiderschrank?
+["choose_storage"] = " Lager oder Kleiderschrank? ",
 ["storage"] = " Lagerraum",
 ["wardrobe"] = " Kleiderschrank",
 ["deposit_withdraw"] = " Einzahlen oder abheben?",
@@ -271,7 +270,7 @@ Kaufen Sie ~b~%s~s~ für ~g~$%s~s~?
     ["purchase_furniture"] = "Möbel durchsuchen",
     ["resell_furniture"] = "Möbel verkaufen",
     ["fetching_furniture"] = "Eigene Möbel abholen",
-    ["no_furniture"] = "Sie haben keine Möbel", ["no_furniture"] = "Sie haben keine Möbel",
+    ["no_furniture"] = "Sie haben keine Möbel",
     ["your_furniture"] = "Deine Möbel",
     ["owned_furniture"] = "%s x%i",
     ["selling_furniture"] = "Verkaufe Möbel",
@@ -292,6 +291,8 @@ Kaufen Sie ~b~%s~s~ für ~g~$%s~s~?
     ["spawn_house"] = "Haus #%i",
 
     ["contact_realtor"] = "Kontaktiere einen Immobilienmakler, um diese Immobilie zu kaufen",
+    ["property_price"] = "The property costs $%i",
+    ["property_rent"] = "The rent is $%i",
 
     -- LOGS
     ["LOG_backed_up"] = "Gesichertes Grundstück von %s (#%i, id %s).\n\nFile location: %s",
