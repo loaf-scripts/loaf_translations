@@ -48,7 +48,7 @@ Strings = {
     ["transferring_house"] = "Woning overdragen",
     ["transferring_apart"] = "Appartement overdragen",
     ["transferred_house"] = "Je hebt woning #%i overgedragen aan %s (%i).",
-    ["transferred_apart"] = "Je hebt appartement #%i overgedragen aan %s (%i)."",
+    ["transferred_apart"] = "Je hebt appartement #%i overgedragen aan %s (%i).",
     ["other_owns_house"] = "%s is al eigenaar van woning #%i",
     ["other_owns_apart"] = "%s is al eigenaar van appartement #%i",
 
